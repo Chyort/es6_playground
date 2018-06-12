@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 module.exports = {
     entry: [
-        './app/index.js'
+        './app/index_original.js'
     ],
     mode: 'development',
     devtool: 'inline-source-map',
